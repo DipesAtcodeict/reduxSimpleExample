@@ -1,0 +1,22 @@
+*,html {
+    padding:0;
+    margin:0;
+}
+
+h1,label {
+    color: rgb(14, 43, 107);
+}
+
+.app {
+    background-color: rgb(130, 130, 175);
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.first {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    padding: 2rem;
+    background-color: rgb(126, 108, 108);
+}
